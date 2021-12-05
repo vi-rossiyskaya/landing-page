@@ -1,0 +1,14 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "simple interactive page project",
+  "main": "index.js",
+  "repository": "git@github.com:vi-rossiyskaya/landing-page.git",
+  "author": "vi-rossiyskaya <v.i.rossiyskaya@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.9.1"
+  }
+}

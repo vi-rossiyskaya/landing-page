@@ -1,0 +1,17 @@
+@mixin styles-section-photo($bottom) {
+    width: 354px;
+    position: relative;
+    margin-right: 43px;
+    bottom: $bottom;
+}
+
+@mixin contacts-form__input($width) {
+    border-bottom: solid 1px rgba(255, 255, 255, 0.15);
+    width: $width;
+    margin-bottom: 48px;
+    color: white;
+
+    &::placeholder {
+        color: white;
+    }
+}
